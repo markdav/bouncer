@@ -5,6 +5,6 @@ The objective is as yet unclear but the mechanics are side scrolling shooter wit
 
 Todo:
 
-[] Allow the player to change direction
-[] Add NPCs and Score, etc
-[] Add online multiplayer (might be new game version)
+- [] Allow the player to change direction
+- [] Add NPCs and Score, etc
+- [] Add online multiplayer (might be new game version)
